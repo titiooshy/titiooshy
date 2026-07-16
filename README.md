@@ -9,3 +9,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" alt="header"/> 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AAC9&width=435&lines=Hello%2C+it's+Titilayo+Oshinowo;Computer+%26+Design+Engineering)](https://git.io/typing-svg)
