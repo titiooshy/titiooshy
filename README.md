@@ -25,3 +25,6 @@
 <!--
      This is the list of my skills I am using
 -->
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,aws,java,nodejs,react,express,figma,azure,vue,androidstudio,arduino,bash,c,cpp,dotnet,fastapi,ai,js,latex,linux,matlab,netlify,ps,pytorch,raspberrypi,replit,sklearn,swift,ts,html,css,vscode,windows,php,processing,pr,opencv,cmake,anaconda)](https://skillicons.dev)
+
