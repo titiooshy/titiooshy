@@ -37,3 +37,30 @@
 </div>
 You can find my publications through my ORCID account, where I share collaborated research insights, tips, and knowledge and experience in tech.
 I also delve into personal thoughts of human computer interaction, software design practices and other interesting topics.
+
+### Connect with me!
+<div>
+    <a href="https://www.linkedin.com/in/titilayo-oshinowo/">
+        <img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" alt="LinkedIn" width="35" height="35"/>
+    </a>
+    <a href="https://titiooshy.netlify.app/">
+        <img src="https://cdn-icons-png.flaticon.com/512/7867/7867852.png" alt="Portfolio" width="35" height="35"/>
+    </a>
+    <a href="mailto:titiooshy@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gmail_icon_%282026%29.svg/3840px-Gmail_icon_%282026%29.svg.png" alt="Email Account" width="35" height="35"/>
+    </a>
+</div>
+
+<!--
+     Oh, hello there, recruiters!
+-->
+
+### Employer?
+> [!IMPORTANT]  
+> <a href="https://drive.google.com/file/d/14RVt05X4-uK3meqx5c1IatZSAo0etxkT/view?usp=sharing" download>Download my resume</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+<!--
+     Thanks for being my guest <3
+-->
