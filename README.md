@@ -30,7 +30,7 @@
 
 ### Publications
 <div> 
-  <a href="[https://orcid.org/my-orcid?orcid=0009-0007-8397-1193]([https://orcid.org/0009-0007-8397-1193](https://orcid.org/0009-0007-8397-1193))">
+  <a href="https://orcid.org/my-orcid?orcid=0009-0007-8397-1193">
     <img src="https://img.shields.io/badge/ORCID-black?logo=orcid&logoColor=brightgreen" target="_blank" alt="ORC">
   </a>
 
